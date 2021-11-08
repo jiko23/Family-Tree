@@ -1,0 +1,3 @@
+ADD_MEMBER King_Shan Queen_Anga Wife Female
+ADD_CHILD Queen_Anga Chit Son Male
+GET_RELATIONSHIP Queen_Anga Son
