@@ -1,0 +1,12 @@
+ADD_MEMBER King_Shan Queen_Anga Wife Female
+ADD_MEMBER King_Shan Heru Brother Male
+ADD_MEMBER Queen_Anga Rama Son Male
+ADD_MEMBER Heru Queen_Anga Sibling Female
+ADD_CHILD Queen_Anga Bulla Daughter Female
+ADD_CHILD Queen_Anga Billa Daughter Female
+ADD_CHILD Queen_Anga Ish Daughter Female
+GET_RELATIONSHIP Queen_Anga Daughter
+GET_RELATIONSHIP King_Shan Daughter
+GET_RELATIONSHIP Bhula Daughter
+ADD_MEMBER Heru Heru Sibling Female
+ADD_CHILD Queen_Anga Queen_Anga Son Male
